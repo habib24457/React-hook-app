@@ -1,0 +1,14 @@
+.header-style {
+  margin-left: 450px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.context-value-style {
+  color: rgb(253, 250, 250);
+  background-color: rgb(88, 175, 125);
+  border: 1px solid rgb(36, 13, 13);
+  border-radius: 3px;
+  height: 30px;
+  width: 500px;
+}
